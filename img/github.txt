@@ -1,0 +1,7 @@
+SSHの鍵
+$ ssh-keygen -t rsa -b 4096 -C "ymsalty@gmail.com"
+鍵の生成場所
+/c/Users/ymsal/.ssh/id_rsa
+パスフレーズ
+Enter passphrase (empty for no passphrase): ym556474
+Enter same passphrase again: ym556474
